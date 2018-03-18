@@ -11,3 +11,15 @@ Actions I need to take in order to setup a new dev machine(Some of the instructi
 - [Spotify](https://www.spotify.com/)
 - [Google Chrome](https://www.google.com/chrome/)
 - [Kupfer, there is a similar solution around,  already installed](https://github.com/kupferlauncher/kupfer)
+
+## Google Chrome add-ons/apps
+ - Grammarly
+ - StayFocusd
+ - Password manager
+ - ScriptBlock
+ - Note Board - Sticky Notes App
+ - Cherry Tomato
+ - Postman
+ - Adblock Plus
+ - FoxyProxy Standard
+ - Scrum for Trello
