@@ -33,3 +33,8 @@ Actions I need to take in order to setup a new dev machine(Some of the instructi
 * Code Runner
 * ESLint
 * npm intellisense
+* Bracket Pair Colorizer
+* Indent Rainbow
+* JavaScript (ES6) code snippets
+* Todo+
+* GitLens
