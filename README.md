@@ -25,3 +25,11 @@ Actions I need to take in order to setup a new dev machine(Some of the instructi
  - [FoxyProxy Standard](https://chrome.google.com/webstore/detail/foxyproxy-standard/gcknhkkoolaabfmlnjonogaaifnjlfnp)
  - [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje)
  - [Typio form recovery](https://chrome.google.com/webstore/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa)
+
+## VS code extensions
+* Auto Close Tag
+* Auto Import
+* Auto Rename Tag
+* Code Runner
+* ESLint
+* npm intellisense
