@@ -39,4 +39,4 @@ Actions I need to take in order to setup a new dev machine(Some of the instructi
 * Todo+
 * GitLens
 * eslint-config-airbnb-base
-* npm install babel-eslint --save-dev
+* babel-eslint
