@@ -36,7 +36,8 @@ Actions I need to take in order to setup a new dev machine(Some of the instructi
 * Bracket Pair Colorizer
 * Indent Rainbow
 * JavaScript (ES6) code snippets
-* Todo+
+* Todo highlighter
 * GitLens
 * eslint-config-airbnb-base
 * babel-eslint
+* JS refactor
