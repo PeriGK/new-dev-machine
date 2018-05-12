@@ -25,6 +25,7 @@ Actions I need to take in order to setup a new dev machine(Some of the instructi
  - [FoxyProxy Standard](https://chrome.google.com/webstore/detail/foxyproxy-standard/gcknhkkoolaabfmlnjonogaaifnjlfnp)
  - [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje)
  - [Typio form recovery](https://chrome.google.com/webstore/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa)
+ - [The big list of Trello chrome extensions](https://blog.trello.com/big-list-of-trello-chrome-extensions)
 
 ## VS code extensions
 * Auto Close Tag
