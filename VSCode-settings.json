@@ -1,0 +1,19 @@
+{
+    "editor.minimap.enabled": true,
+    "window.zoomLevel": 0,
+    "editor.snippetSuggestions": "bottom",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    // Enable word based suggestions
+    "editor.wordBasedSuggestions": true,
+
+    // Enable parameter hints
+    "editor.parameterHints": true,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.renderWhitespace": "all", 
+}
